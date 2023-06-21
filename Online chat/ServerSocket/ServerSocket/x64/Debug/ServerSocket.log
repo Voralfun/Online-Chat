@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Andrew\source\repos\ServerSocket\ServerSocket\main.cpp(139,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Andrew\source\repos\ServerSocket\ServerSocket\main.cpp(183,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Andrew\source\repos\ServerSocket\ServerSocket\main.cpp(200,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Andrew\source\repos\ServerSocket\ServerSocket\main.cpp(207,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Andrew\source\repos\ServerSocket\ServerSocket\main.cpp(228,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ServerSocket.vcxproj -> C:\Users\Andrew\source\repos\ServerSocket\x64\Debug\ServerSocket.exe

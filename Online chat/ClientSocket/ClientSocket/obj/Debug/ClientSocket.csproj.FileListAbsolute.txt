@@ -1,0 +1,12 @@
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.Form1.resources
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.Properties.Resources.resources
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb
+C:\Users\Andrew\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.InputUsernameForm.resources
